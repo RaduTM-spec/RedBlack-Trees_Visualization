@@ -8,13 +8,13 @@ Extract the .zip file.
 
 
 #Documentation
-> **Text Input field** accepts any integer
-> **Insert** button inserts a new key using the input field value
-> **Delete** button deletes the key from the input field (if is found in the tree)
-> **Clear** button deletes all tree nodes
-> **Search** button searches the key from input field in the tree
-> **Min & Max** buttons searches for the minimum and maximum key in the tree
-> **Show NILL leaf** checkbox shows the NILL node and all leaves connection with it
-> **Left sliders** adjusts dimension ratio of the tree
-> **EXIT** button quits the app
+> **Text Input field** accepts any integer<br />
+> **Insert** button inserts a new key using the input field value<br />
+> **Delete** button deletes the key from the input field (if is found in the tree)<br />
+> **Clear** button deletes all tree nodes<br />
+> **Search** button searches the key from input field in the tree<br />
+> **Min & Max** buttons searches for the minimum and maximum key in the tree<br />
+> **Show NILL leaf** checkbox shows the NILL node and all leaves connection with it<br />
+> **Left sliders** adjusts dimension ratio of the tree<br />
+> **EXIT** button quits the app<br />
     
